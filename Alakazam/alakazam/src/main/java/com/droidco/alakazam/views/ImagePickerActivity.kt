@@ -1,10 +1,8 @@
-package com.droidco.alakazam
+package com.droidco.alakazam.views
 
-import android.app.Activity
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.fragment.app.Fragment
+import com.droidco.alakazam.R
 
 internal class ImagePickerActivity : AppCompatActivity() {
 

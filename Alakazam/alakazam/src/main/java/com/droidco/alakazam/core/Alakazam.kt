@@ -3,7 +3,7 @@ package com.droidco.alakazam.core
 import android.app.Activity
 import android.content.Intent
 import androidx.fragment.app.Fragment
-import com.droidco.alakazam.ImagePickerActivity
+import com.droidco.alakazam.views.ImagePickerActivity
 import kotlin.IllegalStateException
 
 class Alakazam {
