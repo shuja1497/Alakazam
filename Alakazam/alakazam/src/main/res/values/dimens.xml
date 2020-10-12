@@ -2,5 +2,6 @@
 <resources>
 
     <dimen name="done_size">20sp</dimen>
+    <dimen name="item_dimension">100dp</dimen>
 
 </resources>
